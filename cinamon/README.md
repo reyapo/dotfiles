@@ -1,5 +1,7 @@
 # configs
 
-window borders: Arc-Darker
-controls: Arc-Darker
-Desktop: qob
+| object         | theme      |
+|----------------|------------|
+| window borders | Arc-Darker |
+| controls       | Arc-Darker |
+| Desktop        | qob        |
